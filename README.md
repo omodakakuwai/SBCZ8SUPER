@@ -1,5 +1,5 @@
-## SBC8X305
-The SBC8X305 is a home-built single board computer equipped with Signetics 8X305 CPU, capable of running home-built VTL interpreter.
+## SBCZ8SUPER
+The SBCZ8SUPER is a home-built single board computer equipped with Zilog Z8 SUPER(known as SUPER8) CPU, capable of running home-built VTL interpreter.
 
 ![](https://github.com/omodakakuwai/SBCZ8SUPER/blob/main/images/SBCZ8SUPER_03.jpg)
 ![](https://github.com/omodakakuwai/SBCZ8SUPER/blob/main/images/SBCZ8SUPER_02.jpg)
